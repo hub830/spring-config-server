@@ -1,0 +1,6 @@
+applications:
+- disk_quota: 1024M
+  name: spring-config-server
+  path: .
+  instances: 1
+  memory: 1024M

@@ -1,0 +1,5 @@
+.cf
+*.swp
+*.swo
+build/
+.gradle/
